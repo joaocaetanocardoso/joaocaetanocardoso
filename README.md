@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @joaocaetanocardoso
-- 👀 I’m interested in Rust
-- 🌱 I’m currently learning Rust
+- 👀 I’m interested in Python, Java e C
 
 <!---
 joaocaetanocardoso/joaocaetanocardoso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
